@@ -7,6 +7,8 @@
     <string name="home_keep">Keep</string>
     <string name="home_push">Connect</string>
     <string name="home_setting">Setting</string>
+    <string name="home_site">Sources</string>
+    <string name="home_hot_tv">Douban Popular TV</string>
     <string name="home_history">History</string>
     <string name="home_recommend">Recommend</string>
 
